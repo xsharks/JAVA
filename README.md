@@ -74,10 +74,14 @@
      		});
 ```
 # 流程图、
-![images]()
+![images](https://github.com/xsharks/JAVA/blob/master/%E5%9B%BE%E7%89%874.png)
 
 # 运行结果
-![images]()
-![images]()
-![images]()
+![images](https://github.com/xsharks/JAVA/blob/master/图片2.png)
+![images](https://github.com/xsharks/JAVA/blob/master/%E5%9B%BE%E7%89%871.png)
+![images](https://github.com/xsharks/JAVA/blob/master/%E5%9B%BE%E7%89%873.png)
+
+#实验感想
+
+在本次实验中我通过学习之前老师讲解的知识，以及综合之前几次Java实验的内容，对本次『学生选课系统』实验进行编程运行，在不断的修改，在其中的参数与数据的联系，并且考虑操作中可能出现的异常，处理异常。由于本次试验又使用到了Github这个开源托管平台，第二次的使用我也有一次熟悉了操作，相信这个平台能够在以后的学习乃至工作中带来更多的启发。 最后，Java课程的学习已经伴随着实验以及考试结束了，我还有很多不会的知识，不过我也会继续努力的，为这个行业增光添彩
 
